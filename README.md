@@ -1,4 +1,4 @@
-##### Implementação do método Newton-Raphson em R
+## Implementação do método Newton-Raphson em R
 
 Código: [newton_raphson.R](newton_raphson.R)
 
